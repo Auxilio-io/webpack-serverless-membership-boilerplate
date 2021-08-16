@@ -1,0 +1,11 @@
+{
+  "runtime": "nodejs10.x",
+  "version": "1.0",
+  "secrets": ["APIKEY"],
+  "endpoints": {
+    "boilerplate": {
+      "method": "GET",
+      "file": "boilerplate.js"
+    }
+  }
+}
